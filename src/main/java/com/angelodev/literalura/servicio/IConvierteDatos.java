@@ -1,4 +1,5 @@
 package com.angelodev.literalura.servicio;
 
-public interface ConvierteDatos {
+public interface IConvierteDatos {
+    <T> T obtenerDatos(String json, Class<T> clase);
 }
