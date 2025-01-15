@@ -1,6 +1,6 @@
-<h1 align="center" color="#DA70D6"> Conversor de Monedas </h1>
+<h1 align="center" color="#DA70D6"> Literalura </h1>
 <p align="Center">
-   <img style="text-align:center;" height="300px"  width="600px" src="https://www.pexels.com/es-es/foto/libros-en-maleta-1253522/">
+   <img style="text-align:center;" height="300px"  width="600px" src="https://images.pexels.com/photos/45717/pexels-photo-45717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 </p>
 
 ## Introducción
