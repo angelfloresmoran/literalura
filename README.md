@@ -33,7 +33,7 @@ Así como los Record para interpretar las respuestas Json.
 > datos del tipo objetos java, con el fin de que se pueda manipular esa información.
 
 
-## Funcionalidades del Proyecto
+## :hammer: Funcionalidades del Proyecto
 - **Registrar libro**
 - **Consultar libros registrados**
 - **Consultar autores registrados**
@@ -43,7 +43,7 @@ Así como los Record para interpretar las respuestas Json.
 - **Mostrar Top 10 libros más descargados**
 - **Consultar Autor por nombre**
 
-## Modelado de Datos
+## :computer: Modelado de Datos
 Para almacenar la información necesaria se hace uso de PostgreSQL
 el modelado se hizo desde la aplicación java con JPA. 
 
@@ -52,6 +52,10 @@ Quedando los datos del libro de la siguiente forma:
 
 Y los datos de Autor:
 <img width="957" alt="datosAutor" src="https://github.com/user-attachments/assets/bd1f4efe-8ee4-41ca-bd01-8821341204fd" />
+
+
+
+
 
 
 
