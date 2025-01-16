@@ -47,6 +47,17 @@ Así como los Record para interpretar las respuestas Json.
 Para almacenar la información necesaria se hace uso de PostgreSQL
 el modelado se hizo desde la aplicación java con JPA. 
 
+Quedando los datos del libro de la siguiente forma: 
+<img width="954" alt="tablalibros" src="https://github.com/user-attachments/assets/2bdf7d43-14f5-498b-83b5-da3b5e538af6" />
+
+Y los datos de Autor:
+<img width="957" alt="datosAutor" src="https://github.com/user-attachments/assets/bd1f4efe-8ee4-41ca-bd01-8821341204fd" />
+
+
+
+
+
+
 
 
 
