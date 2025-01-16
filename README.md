@@ -33,4 +33,21 @@ Así como los Record para interpretar las respuestas Json.
 > datos del tipo objetos java, con el fin de que se pueda manipular esa información.
 
 
+## Funcionalidades del Proyecto
+- **Registrar libro**
+- **Consultar libros registrados**
+- **Consultar autores registrados**
+- **Consultar autores vivos en un determinado año**
+- **Consultar Libros por idioma**
+- **Mostrar Estadísticos**
+- **Mostrar Top 10 libros más descargados**
+- **Consultar Autor por nombre**
+
+## Modelado de Datos
+Para almacenar la información necesaria se hace uso de PostgreSQL
+el modelado se hizo desde la aplicación java con JPA. 
+
+
+
+
 
