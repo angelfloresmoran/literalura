@@ -53,6 +53,8 @@ Quedando los datos del libro de la siguiente forma:
 Y los datos de Autor:
 <img width="957" alt="datosAutor" src="https://github.com/user-attachments/assets/bd1f4efe-8ee4-41ca-bd01-8821341204fd" />
 
+## Insignias
+![badge literalura](https://github.com/user-attachments/assets/e64e4760-3658-4568-a217-5bac0e99335e)
 
 
 
