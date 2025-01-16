@@ -96,8 +96,10 @@ public class Principal {
                     break;
                 case 7:
                     obtenerTop10Libros();
+                    break;
                 case 8:
                     consultarAutorPorNombre();
+                    break;
                 case 0:
                     System.out.println("Cerrando la aplicación...");
                     break;
